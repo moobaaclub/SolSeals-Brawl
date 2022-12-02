@@ -20,6 +20,7 @@
         "dev": "next dev",
         "build": "yarn clean && next build",
         "start": "next start",
+        "start": "react-scripts --openssl-legacy-provider start",
         "lint": "next lint"
     },
     "dependencies": {
