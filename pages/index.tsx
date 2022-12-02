@@ -1,3 +1,4 @@
+npm install -D @types/@rngstudio/flip
 import { NextPage } from "next";
 import Head from "next/head";
 import { Header } from "../components/navigation/Header";
