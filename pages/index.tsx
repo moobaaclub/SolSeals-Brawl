@@ -1,4 +1,3 @@
-npm install -D @types/rngstudio
 import { NextPage } from "next";
 import Head from "next/head";
 import { Header } from "../components/navigation/Header";
